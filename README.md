@@ -1,10 +1,10 @@
 # BizCardX: Extracting Business Card Data with Optical Character Recognition (OCR)
 
 ## Introduction
-The extraction of business card data through Optical Character Recognition (OCR) represents a state-of-the-art solution for digitizing contact information from physical cards. By utilizing OCR technology, businesses can effectively convert printed text into digital formats, facilitating integration into contact management systems and improving networking and customer relationship management efforts.
+Extracting business card data using Optical Character Recognition (OCR) is a cutting-edge solution for digitizing contact information from physical cards. With OCR technology, businesses can seamlessly convert printed text into digital formats, enabling easier integration into contact management systems and enhancing networking and customer relationship management efforts.
 
 ## Overview
-This Streamlit web application allows users to upload images of business cards and extract important information such as name, job title, company, contact details, and location using easyOCR. Users can view, edit, or delete the extracted data within the application. Furthermore, the app enables users to save this extracted information along with the uploaded business card image into a MySQL database, which can accommodate multiple entries, each linked to its respective business card image and extracted details.
+This Streamlit web application enables users to upload images of business cards and extract essential information such as names, job titles, companies, contact details, and locations using easyOCR. Within the app, users can view, edit, or delete the extracted data. Additionally, the application allows users to save this information, along with the uploaded business card images, into a MySQL database that can store multiple entries, each associated with its respective image and details.
 
 ### 1. Tools Installed
 * Visual Studio Code
