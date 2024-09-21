@@ -54,5 +54,5 @@ This Streamlit web application enables users to upload images of business cards 
 * In this section, users can modify the data obtained from a business card, upload the updated information to the SQL database, and view the revised data.
 * Users also have the option to delete records from the MySQL database as needed.
 
-## YouTube video link:
+## YouTube video link: https://youtu.be/DLXhxuymyy4?si=o53vtQ_xClNfId5h
 
